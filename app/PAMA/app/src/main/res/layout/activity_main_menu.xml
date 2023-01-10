@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/ic_launcher_background"
+    tools:context=".MainMenu">
+
+    <ImageView
+        android:id="@+id/helpImageView"
+        android:layout_width="59dp"
+        android:layout_height="50dp"
+        android:layout_weight="7"
+        app:srcCompat="@drawable/help_image_view" />
+
+    <TextView
+        android:id="@+id/MainMenuTextView"
+        android:layout_width="189dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="105dp"
+        android:text="MainMenu"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/callLogImageView"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/MainMenuTextView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="5dp"
+        app:srcCompat="@drawable/call_log" />
+
+    <ImageView
+        android:id="@+id/searchImageView"
+        android:layout_width="120dp"
+        android:layout_height="90dp"
+        android:layout_below="@+id/MainMenuTextView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="130dp"
+        android:layout_marginEnd="43dp"
+        app:srcCompat="@drawable/search_icon_sec" />
+
+    <ImageView
+        android:id="@+id/emailImageView"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/callTextView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="3dp"
+        app:srcCompat="@drawable/email_logo" />
+
+    <ImageView
+        android:id="@+id/settingsImageView"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/searchTextView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="141dp"
+        android:layout_marginEnd="37dp"
+        app:srcCompat="@drawable/settings_logo" />
+
+    <ImageView
+        android:id="@+id/musicImageView"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/emailTextView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="10dp"
+        app:srcCompat="@drawable/music_logo" />
+
+    <ImageView
+        android:id="@+id/videoImageView"
+        android:layout_width="120dp"
+        android:layout_height="90dp"
+        android:layout_below="@+id/settingsTextView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-244dp"
+        android:layout_marginEnd="46dp"
+        app:srcCompat="@drawable/video_logo" />
+
+    <TextView
+        android:id="@+id/callTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/callLogImageView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="2dp"
+        android:text="Make Call"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/searchTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/searchImageView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="73dp"
+        android:text="Search"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/emailTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/emailImageView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="87dp"
+        android:layout_marginTop="0dp"
+        android:text="Email"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/settingsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/settingsImageView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="63dp"
+        android:text="Settings"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/musicTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/musicImageView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="5dp"
+        android:text="Play Music"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/videoTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/videoImageView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="68dp"
+        android:text="Play Video"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/smsImageView"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/musicTextView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="204dp"
+        android:layout_marginTop="-368dp"
+        app:srcCompat="@drawable/message_logo" />
+
+    <TextView
+        android:id="@+id/smsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/smsImageView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="239dp"
+        android:layout_marginTop="-3dp"
+        android:text="Message"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/cameraImageView"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/videoTextView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="204dp"
+        app:srcCompat="@drawable/camera_logo" />
+
+    <TextView
+        android:id="@+id/cameraTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cameraImageView"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="241dp"
+        android:text="Camera"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+    />
+    <!--TEXTVIEW-->
+
+    <!--ImageViews -->
+
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cse21-050/Downloads/PAMA-master/PAMA-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/cse21-050/Downloads/PAMA-master/PAMA-master/app/src/main/res/drawable/eish.xml" value="0.1" />
+        <entry key="..\:/Users/cse21-050/Downloads/PAMA-master/PAMA-master/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.1" />
+        <entry key="..\:/Users/cse21-050/Downloads/PAMA-master/PAMA-master/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1" />
+        <entry key="..\:/Users/cse21-050/Downloads/PAMA-master/PAMA-master/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/cse21-050/Downloads/PAMA-master/PAMA-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/cse21-050/Downloads/PAMA-master/PAMA-master/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/Users/cse21-050/Downloads/PAMA-master/PAMA-master/app/src/main/res/drawable/ic_mail.xml" value="0.1" />
+        <entry key="..\:/Users/cse21-050/Downloads/PAMA-master/PAMA-master/app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="..\:/Users/cse21-050/Downloads/PAMA-master/PAMA-master/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_camera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_forgot_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_help.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_make_calls.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_music.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_send_email.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_send_message.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_sign_up.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/activity_web_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/custom_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/layout/settings_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cse21-050/OneDrive - Botswana Accountancy College/Desktop/PAMA/PAMA/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
